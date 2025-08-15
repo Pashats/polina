@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    text-align: center;
+   
+}
+img{
+     width: 600px;
+    height: 280px;
+}
+p{
+    font-size: 25px;
+    font-family:Verdana, Geneva,  sans-serif;
+}
+main p img{
+    width: 50px;
+    height: 50px;
+}
+main img{
+    width: 600px;
+    height: 300px;
+     
+}
+.Miku{
+        width: 100px;
+    height: 100px;
+}
+.RinandLen{
+    width: 500px;
+    height: 400px;
+}
+header p{
+   text-decoration: none;
+    padding: 5%;
+}
+.nav img{
+     width: 400px;
+    height: 300px;
+}
+.ala{
+    width: 400px;
+    height: 300px;
+}
+.Moto{
+     width: 400px;
+    height: 300px;
+}
+footer{
+    background-color: aliceblue;
+}
+.Har{
+     background-color: rgb(147, 201, 248);
+}
+.Rr{
+     background-color: rgb(252, 225, 50);
+}
+.II{
+     background-color: rgb(247, 99, 230);
+}
+.Kk{
+     background-color: rgb(148, 160, 174);
+}
+.Te{
+    background-color: rgb(182, 66, 66);
+}
+.Deb{
+     background-color: rgb(108, 19, 163);
+}
+.Mome{
+     background-color: rgb(249, 124, 201);
+}
+.cie{
+     width: 500px;
+    height: 300px;
+}
+.da{
+    width: 500px;
+    height: 600px;
+   
+}
+
+ 
